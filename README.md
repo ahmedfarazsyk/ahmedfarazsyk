@@ -13,7 +13,7 @@
   - [Rock Paper Scissor (Java, Swing, AWT)](https://github.com/ahmedfarazsyk/rockpaperscissor.git)
 
 - <b>C++ Projects</b>
-  - [Restroperator (Datastructures and Algorithms, C++)](git@github.com:ahmedfarazsyk/restroperator.git)
+  - [Restroperator (Datastructures and Algorithms, C++)](https://github.com/ahmedfarazsyk/restroperator.git)
 
 
 
