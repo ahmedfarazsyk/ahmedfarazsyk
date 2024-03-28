@@ -3,17 +3,17 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>AI Projects</b>
-  - [YouTube Comments Emotion Recognition (Python)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [YouTube Comments Emotion Recognition (Python)](https://github.com/ahmedfarazsyk/programming_projects)
     
 - <b>Full Stack Web Apps</b>
-  - [Text Utilities (Python, Django)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) </b>
+  - [Text Utilities (Python, Django)](https://github.com/ahmedfarazsyk/textutils)
   
 - <b>Games</b>
-  - [Alien Invasion (Python, Pygames)](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Rock Paper Scissor (Java, Swing, AWT)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Alien Invasion (Python, Pygames)](https://github.com/ahmedfarazsyk/AlienInvasion)
+  - [Rock Paper Scissor (Java, Swing, AWT)]()
 
 - <b>C++ Projects</b>
-  - [Restroperator (Datastructures and Algorithms, C++)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Restroperator (Datastructures and Algorithms, C++)]()
 
 
 
