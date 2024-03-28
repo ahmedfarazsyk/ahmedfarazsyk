@@ -16,7 +16,7 @@
   - [Restroperator (Datastructures and Algorithms, C++)](https://github.com/ahmedfarazsyk/restroperator.git)
 
 <h2>📜 Ceritfications:</h2>
-- [Mathematics for Machine Learning and Data Science](https://coursera.org/share/63ac3576aedf5dffff9f5fe9d641fb13)
+- <a href="https://coursera.org/share/faa1a4f6111718a0c76f3a33960a9849">Mathematics for Machine Learning and Data Science</a>
 
 
 <h2> 🤳 Connect with me:</h2>
