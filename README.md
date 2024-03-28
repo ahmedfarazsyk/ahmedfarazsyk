@@ -10,10 +10,10 @@
   
 - <b>Games</b>
   - [Alien Invasion (Python, Pygames)](https://github.com/ahmedfarazsyk/AlienInvasion)
-  - [Rock Paper Scissor (Java, Swing, AWT)]()
+  - [Rock Paper Scissor (Java, Swing, AWT)](https://github.com/ahmedfarazsyk/rockpaperscissor.git)
 
 - <b>C++ Projects</b>
-  - [Restroperator (Datastructures and Algorithms, C++)]()
+  - [Restroperator (Datastructures and Algorithms, C++)](git@github.com:ahmedfarazsyk/restroperator.git)
 
 
 
