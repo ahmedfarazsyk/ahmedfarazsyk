@@ -4,6 +4,7 @@
 
 - <b>AI Projects</b>
   - [YouTube Comments Emotion Recognition (Python)](https://github.com/ahmedfarazsyk/programming_projects)
+  - [Movie Recommender System (Python, Streamlit)](https://mrs-faraz.streamlit.app/)
     
 - <b>Full Stack Web Apps</b>
   - [Text Utilities (Python, Django)](https://github.com/ahmedfarazsyk/textutils)
