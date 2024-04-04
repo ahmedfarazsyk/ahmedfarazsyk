@@ -4,8 +4,9 @@
 
 - <b>AI Projects</b>
   - [YouTube Comments Emotion Recognition (Python)](https://github.com/ahmedfarazsyk/programming_projects)
-  - [Movie Recommender System (Python, Streamlit)](https://mrs-faraz.streamlit.app/)
-  - [SMS/Email Spam Classifier (Python, Streamlit)](https://ssc-faraz.streamlit.app/)
+  - [Movie Recommender System (Python, Streamlit)](https://github.com/ahmedfarazsyk/mrs-faraz.git)
+  - [SMS/Email Spam Classifier (Python, Streamlit)](https://github.com/ahmedfarazsyk/sms_spam_classifier.git)
+  - [SpamGuard (Python, Streamlit)](https://github.com/ahmedfarazsyk/spamguard.git)
     
 - <b>Full Stack Web Apps</b>
   - [Text Utilities (Python, Django)](https://github.com/ahmedfarazsyk/textutils)
