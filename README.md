@@ -7,6 +7,11 @@
   - [Movie Recommender System (Python, Streamlit)](https://github.com/ahmedfarazsyk/mrs-faraz.git)
   - [SMS/Email Spam Classifier (Python, Streamlit)](https://github.com/ahmedfarazsyk/sms_spam_classifier.git)
   - [SpamGuard (Python, Streamlit)](https://github.com/ahmedfarazsyk/spamguard.git)
+ 
+- <b>Data Analysis Projects</b>
+  - [Atliq Sales Insights (SQL, Power BI)]((https://github.com/ahmedfarazsyk/data_analysis_projects.git))
+  - [T20 Cricket Analysis (Python, Power BI)]((https://github.com/ahmedfarazsyk/data_analysis_projects.git))
+
     
 - <b>Full Stack Web Apps</b>
   - [Text Utilities (Python, Django)](https://github.com/ahmedfarazsyk/textutils)
