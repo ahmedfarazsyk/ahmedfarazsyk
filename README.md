@@ -9,8 +9,8 @@
   - [SpamGuard (Python, Streamlit)](https://github.com/ahmedfarazsyk/spamguard.git)
  
 - <b>Data Analysis Projects</b>
-  - [Atliq Sales Insights (SQL, Power BI)]((https://github.com/ahmedfarazsyk/data_analysis_projects.git))
-  - [T20 Cricket Analysis (Python, Power BI)]((https://github.com/ahmedfarazsyk/data_analysis_projects.git))
+  - [Atliq Sales Insights (SQL, Power BI)](https://github.com/ahmedfarazsyk/data_analysis_projects.git)
+  - [T20 Cricket Analysis (Python, Power BI)](https://github.com/ahmedfarazsyk/data_analysis_projects.git)
 
     
 - <b>Full Stack Web Apps</b>
