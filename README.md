@@ -11,6 +11,7 @@
 - <b>Data Analysis Projects</b>
   - [Atliq Sales Insights (SQL, Power BI)](https://github.com/ahmedfarazsyk/data_analysis_projects.git)
   - [T20 Cricket Analysis (Python, Power BI)](https://github.com/ahmedfarazsyk/data_analysis_projects.git)
+  - [HR Data Analysis (SQL, Power B)](https://github.com/ahmedfarazsyk/data_analysis_projects.git)
 
     
 - <b>Full Stack Web Apps</b>
@@ -25,6 +26,8 @@
 
 <h2>📜 Ceritfications:</h2>
 - <a href="https://coursera.org/share/faa1a4f6111718a0c76f3a33960a9849">Mathematics for Machine Learning and Data Science</a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/PFGFQVFE4PSM">Meta Marketing Analytics</a>
+- <a href="https://www.coursera.org/account/accomplishments/professional-cert/H3LN2ZZ6V56E">Meta Data Analyst</a>
 
 
 <h2> 🤳 Connect with me:</h2>
